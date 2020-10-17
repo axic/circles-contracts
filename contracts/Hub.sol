@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: AGPL
 pragma solidity ^0.7.0;
 
-import "@openzeppelin/contracts/math/SafeMath.sol";
+import "./SafeMath.sol";
 import "./Token.sol";
 
 contract Hub {
