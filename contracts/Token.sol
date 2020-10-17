@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: AGPL
 pragma solidity ^0.7.0;
+pragma experimental SMTChecker;
 
 import "./SafeMath.sol";
 import "./ERC20.sol";
